@@ -407,7 +407,7 @@ The actual data provides a "V" shape, which is similar to the shape from the for
 # 6 Hyperlink
 To access this on my github page press "Click here".
 
-[Click here](https://www.qmul.ac.uk)
+[Click here](https://github.com/hingg123/time-series-cw.git)
 
 
 # 7 References
